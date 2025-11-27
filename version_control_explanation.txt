@@ -1,0 +1,5 @@
+
+Version control for me means that i can easily remove my mistakes and go back 
+to a specific code. It allows to collaborate with others which helps while 
+working within a group. It also shows what changes I made and why I made those
+ chnages which comes in handy during coding.
